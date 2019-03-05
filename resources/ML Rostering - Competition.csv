@@ -1,0 +1,41 @@
+CompetitionName,CompetitionPK,AgeGroup,PreferredDay,PreferredTime,Weight
+2018 East Fremantle Year 3 North,2018_east_fremantle_year_3_north,Age 08,Sun,08:30,1
+2018 East Fremantle Year 3 South,2018_east_fremantle_year_3_south,Age 08,Sun,08:30,1
+2018 East Fremantle Year 3 West,2018_east_fremantle_year_3_west,Age 08,Sun,08:30,1
+2018 East Fremantle Year 4 North,2018_east_fremantle_year_4_north,Age 09,Sun,10:00,1
+2018 East Fremantle Year 4 South,2018_east_fremantle_year_4_south,Age 09,Sun,10:00,1
+2018 East Fremantle Year 4 West,2018_east_fremantle_year_4_west,Age 09,Sun,10:00,1
+2018 East Fremantle Year 5 North,2018_east_fremantle_year_5_north,Age 10,Sun,11:30,1
+2018 East Fremantle Year 5 South,2018_east_fremantle_year_5_south,Age 10,Sun,11:30,1
+2018 East Fremantle Year 5 West,2018_east_fremantle_year_5_west,Age 10,Sun,11:30,1
+2018 East Fremantle Year 6 North,2018_east_fremantle_year_6_north,Age 11,Sun,11:30,1
+2018 East Fremantle Year 6 West,2018_east_fremantle_year_6_west,Age 11,Sun,11:30,1
+2018 East Fremantle Year 7 North,2018_east_fremantle_year_7_north,Age 12,Sat,08:30,2
+2018 East Fremantle Year 7 West,2018_east_fremantle_year_7_west,Age 12,Sat,08:30,2
+Fremantle Conference 2018 Year 10s BLUE,fremantle_conference_2018_year_10s_blue,Age 15,Sun,13:00,2
+Fremantle Conference 2018 Year 10s RED,fremantle_conference_2018_year_10s_red,Age 15,Sun,13:00,2
+Fremantle Conference 2018 Year 11s BLUE,fremantle_conference_2018_year_11s_blue,Age 16,Sun,13:00,2
+Fremantle Conference 2018 Year 11s RED,fremantle_conference_2018_year_11s_red,Age 16,Sun,13:00,2
+Fremantle Conference 2018 Year 12s,fremantle_conference_2018_year_12s,Age 17,Sun,15:00,2
+Fremantle Conference 2018 Year 8s 15 a side,fremantle_conference_2018_year_8s_15_a_side,Age 13,Sat,11:30,2
+Fremantle Conference 2018 Year 8s BLUE,fremantle_conference_2018_year_8s_blue,Age 13,Sat,10:00,2
+Fremantle Conference 2018 Year 8s RED,fremantle_conference_2018_year_8s_red,Age 13,Sat,10:00,2
+Fremantle Conference 2018 Year 9s BLUE,fremantle_conference_2018_year_9s_blue,Age 14,Sat,11:30,2
+Fremantle Conference 2018 Year 9s RED,fremantle_conference_2018_year_9s_red,Age 14,Sat,11:30,2
+Fremantle Conference 2018 Year 9s WHITE,fremantle_conference_2018_year_9s_white,Age 14,Sat,11:30,2
+Fremantle Conference 2018 Years 3 4 All Female,fremantle_conference_2018_years_3_4_all_female,Age 09,Sun,08:30,1
+Fremantle Conference 2018 Youth Years 9 11 All Female,fremantle_conference_2018_youth_years_9_11_all_female,Age 16,Sun,11:30,2
+Fremantle Conference 2018 Youth Yr 7 8 All Female BLUE,fremantle_conference_2018_youth_yr_7_8_all_female_blue,Age 13,Sun,10:00,1
+Fremantle Conference 2018 Youth Yr 7 8 All Female RED,fremantle_conference_2018_youth_yr_7_8_all_female_red,Age 13,Sun,10:00,1
+Fremantle Conference 2018 Yr 5 6 All Female RED,fremantle_conference_2018_yr_5_6_all_female_red,Age 12,Sun,08:30,1
+Fremantle Conference 2018 Yrs 5 6 All Female BLUE,fremantle_conference_2018_yrs_5_6_all_female_blue,Age 11,Sun,08:30,1
+South Fremantle 2018 Pups EAST,south_fremantle_2018_pups_east,Age 08,Sat,08:30,1
+South Fremantle 2018 Pups WEST,south_fremantle_2018_pups_west,Age 08,Sat,08:30,1
+South Fremantle 2018 Year 4s EAST,south_fremantle_2018_year_4s_east,Age 09,Sat,08:30,1
+South Fremantle 2018 Year 4s WEST,south_fremantle_2018_year_4s_west,Age 09,Sat,08:30,1
+South Fremantle 2018 Year 5s EAST,south_fremantle_2018_year_5s_east,Age 10,Sat,10:00,1
+South Fremantle 2018 Year 5s WEST,south_fremantle_2018_year_5s_west,Age 10,Sat,10:00,1
+South Fremantle 2018 Year 6s EAST,south_fremantle_2018_year_6s_east,Age 11,Sat,10:00,1
+South Fremantle 2018 Year 6s WEST,south_fremantle_2018_year_6s_west,Age 11,Sat,10:00,1
+South Fremantle 2018 Year 7s EAST,south_fremantle_2018_year_7s_east,Age 12,Sat,11:30,2
+South Fremantle 2018 Year 7s WEST,south_fremantle_2018_year_7s_west,Age 12,Sat,11:30,2
